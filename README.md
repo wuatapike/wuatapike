@@ -5,7 +5,7 @@
 ¡Bienvenido a mi espacio en GitHub! Soy **Marcos Araya**, desarrollador **Full Stack**, 
 
 - 📍 **Ubicación:** Chile  
-- 💼 **Rol actual:** Poniendome al día cpn ñas tecnologias actuales.  
+- 💼 **Rol actual:** Poniendome al día con las tecnologias actuales.  
 - 📩 **Contacto directo:** marcosjesusaraya@gmail.com  
 
 ---
