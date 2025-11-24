@@ -1,16 +1,12 @@
-# 👋 ¡Hola, soy Marcos Araya!
+# 👋 ¡Hola, soy Marcos Araya (GatoPobre)!
 
 ## 👨‍💻 Sobre Mí
 
-¡Bienvenido a mi espacio en GitHub! Soy **Bastián Landskron**, desarrollador **Full Stack**, arquitecto de microservicios, educador en tecnologías emergentes y entusiasta de la **Inteligencia Artificial**.  
-Mi propósito en 2025 es construir **soluciones tecnológicas sostenibles, seguras y escalables** que realmente marquen la diferencia.
-
-Trabajo a diario con tecnologías modernas aplicadas en contextos reales, tanto para empresas como en entornos educativos. Desde sistemas de autenticación robustos y multicliente hasta microservicios distribuidos con arquitectura hexagonal, todo impulsado por **buenas prácticas, automatización y desacoplamiento**.
+¡Bienvenido a mi espacio en GitHub! Soy **Marcos Araya**, desarrollador **Full Stack**, 
 
 - 📍 **Ubicación:** Chile  
-- 💼 **Rol actual:** Facilitador en Desarrollo Full Stack Python & Desarrollador Multiplataforma (Web / Desktop / Mobile)  
-- 🌐 **Sitio web personal:** [blandskron.com](https://blandskron.com)  
-- 📩 **Contacto directo:** bastianlandskronfreelancer@gmail.com  
+- 💼 **Rol actual:** Poniendome al día cpn ñas tecnologias actuales.  
+- 📩 **Contacto directo:** marcosjesusaraya@gmail.com  
 
 ---
 
@@ -23,7 +19,7 @@ Trabajo a diario con tecnologías modernas aplicadas en contextos reales, tanto 
 ### Frameworks y Librerías
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Bases de Datos y DevOps
+### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -31,7 +27,7 @@ Trabajo a diario con tecnologías modernas aplicadas en contextos reales, tanto 
 ## 🚀 Proyectos Destacados
 
 ### 🧪 Curso de Full Stack Python
-Docente a cargo del diseño e implementación de una formación intensiva de 207 horas en **Python, Django, React y PostgreSQL**, con enfoque profesional y orientado al desarrollo de portafolio.
+Alumno en curso entregado por Sence - Talento Digital 2025 **Python, Django, Javascript y PostgreSQL**, con enfoque profesional y orientado al desarrollo de portafolio.
 
 
 
@@ -46,6 +42,6 @@ Docente a cargo del diseño e implementación de una formación intensiva de 207
 
 ## 📊 GitHub Stats
 
-![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuatapike&show_icons=true&theme=tokyonight)  
+![Wuatapike's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuatapike&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wuatapike&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wuatapike&theme=radical&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wuatapike&theme=tokyonight-duo&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
