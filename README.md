@@ -42,6 +42,6 @@ Alumno en curso entregado por Sence - Talento Digital 2025 **Python, Django, Jav
 
 ## 📊 GitHub Stats
 
-![Wuatapike's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuatapike&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wuatapike&layout=compact&theme=tokyonight)
+![Wuatapike's GitHub stats](https://github-readme-stats.vercel.app/api?username=GatoPobre&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GatoPobre&layout=compact&theme=tokyonight)
 
